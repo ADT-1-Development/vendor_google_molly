@@ -28,7 +28,6 @@ PRODUCT_COPY_FILES += \
     vendor/google/molly/proprietary/etc/firmware/tegra11x/nvhost_tsec.fw:system/etc/firmware/tegra11x/nvhost_tsec.fw \
     vendor/google/molly/proprietary/etc/permissions/com.google.widevine.software.drm.xml:system/etc/permissions/com.google.widevine.software.drm.xml \
     vendor/google/molly/proprietary/etc/permissions/nrdp.xml:system/etc/permissions/nrdp.xml \
-    vendor/google/molly/proprietary/lib/libatv_uinputbridge.so:system/lib/libatv_uinputbridge.so \
     vendor/google/molly/proprietary/lib/egl/libEGL_tegra.so:system/lib/egl/libEGL_tegra.so \
     vendor/google/molly/proprietary/lib/egl/libGLESv1_CM_tegra.so:system/lib/egl/libGLESv1_CM_tegra.so \
     vendor/google/molly/proprietary/lib/egl/libGLESv2_tegra.so:system/lib/egl/libGLESv2_tegra.so \
