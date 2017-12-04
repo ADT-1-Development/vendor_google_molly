@@ -17,5 +17,6 @@ PRODUCT_PACKAGES += \
                     liboemcrypto \
                     libwvdrm_L1 \
                     libwvdrmengine \
+                    libQSEEComAPI \
                     libdrmdecrypt \
 		    libstlport
