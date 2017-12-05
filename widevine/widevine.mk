@@ -13,9 +13,12 @@
 # limitations under the License.
 
 PRODUCT_PACKAGES += \
-                    libWVStreamControlAPI_L1 \
-                    liboemcrypto \
-                    libwvdrm_L1 \
-                    libwvdrmengine \
-                    libdrmdecrypt \
-		    libstlport
+       libWVStreamControlAPI_L1 \
+       libDxModularPluginNv \
+       liboemcrypto \
+       libwvdrm_L1 \
+       libdrmwvmplugin \
+       libwvdrmengine \
+       liboemcrypto \
+       libwvm \
+       libdrmdecrypt
